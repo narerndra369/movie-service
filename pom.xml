@@ -12,6 +12,7 @@
     <artifactId>movie-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>movie-service</name>
+         
     <description>movie-service</description>
     <url/>
     <licenses>
